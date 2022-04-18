@@ -5,8 +5,6 @@ Pytorch 1.9.0
 
 CUDA 10.2
 
-OpenMesh 8.1
-
 ## Evaluation
 ### a. compilation
 Download the pretrained models from the link and unzip it to  `./out/`.
@@ -27,7 +25,16 @@ python generate.py
 The 4X upsampling results will be created in the `testout` folder.
 
 ## Training
-coming soon
+Download the training dataset from the link and unzip it to the working directory
+```
+the dataset will be released soon.
+```
+
+Run the following commands for training our network
+```
+python trainfn.py
+python trainfd.py
+```
 
 ## Citation
 If the repo is useful for your research, please consider citing:
