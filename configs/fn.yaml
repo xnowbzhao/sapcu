@@ -1,0 +1,32 @@
+method: onet
+data:
+  input_type: pointcloud
+  path: data/ShapeNet
+  train_split: train
+  val_split: val
+  test_split: test
+  pointcloud_transform: true
+  pointcloud_n: 2048
+  pointcloud_noise: 0
+  pointcloud_file: pointcloud.npz
+
+model:
+  dim: 3
+  encoder_kwargs:
+    hidden_dim: 512 
+  c_dim: 2048 
+  
+training:
+  out_dir:  out/pointcloud/opu4
+  batch_size: 4
+  print_every: 10
+  visualize_every: 2000
+  checkpoint_every: 250
+  validate_every: 5000
+  backup_every: 100000
+
+test:
+  model_file: 'model_best.pt'
+
+generation:
+  generation_dir: test
