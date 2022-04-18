@@ -1,4 +1,4 @@
-# Self-Supervised Arbitrary-Scale Point Clouds Upsampling via Implicit Neural Representation.
+# SAPCU
 
 ## Environment
 Pytorch 1.9.0
