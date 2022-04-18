@@ -29,7 +29,8 @@ The 4X upsampling results will be created in the `testout` folder.
 ## Training
 Download the training dataset from the link and unzip it to the working directory
 ```
-the dataset will be released soon.
+https://pan.baidu.com/s/1VQ-3RFO02fQfcLBfqvCBZA 
+access code: vpfm 
 ```
 
 Then run the following commands for training our network
