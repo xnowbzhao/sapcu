@@ -41,11 +41,4 @@ If the repo is useful for your research, please consider citing:
 
 
 ## Acknowledgement
-The code is largely based on [occupancy_networks](https://github.com/autonomousvision/occupancy_networks/), If you use any of this code, please make sure to cite the following work:
-
-    @inproceedings{Occupancy Networks,
-        title = {Occupancy Networks: Learning 3D Reconstruction in Function Space},
-        author = {Mescheder, Lars and Oechsle, Michael and Niemeyer, Michael and Nowozin, Sebastian and Geiger, Andreas},
-        booktitle = {Proceedings IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
-        year = {2019}
-    }
+The code is largely based on [occupancy_networks](https://github.com/autonomousvision/occupancy_networks/) and [DGCNN](https://github.com/WangYueFt/dgcnn), If you use any of this code, please make sure to cite these works.
