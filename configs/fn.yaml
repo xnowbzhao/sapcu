@@ -17,7 +17,6 @@ model:
   c_dim: 2048 
   
 training:
-  out_dir:  out/pointcloud/opu4
   batch_size: 4
   print_every: 10
   visualize_every: 2000
