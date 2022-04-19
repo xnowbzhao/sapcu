@@ -1,6 +1,9 @@
 # SAPCU
-【Code of CVPR 2022 paper】 Self-Supervised Arbitrary-Scale Point Clouds Upsampling via Implicit Neural Representation
+【Code of CVPR 2022 paper】 
 
+Self-Supervised Arbitrary-Scale Point Clouds Upsampling via Implicit Neural Representation
+
+Paper address: https://arxiv.org/abs/2204.08196
 
 ## Environment
 Pytorch 1.9.0
