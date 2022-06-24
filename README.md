@@ -28,6 +28,7 @@ You can now test our code on the provided point clouds in the `test` folder. To 
 python generate.py
 ```
 The 4X upsampling results will be created in the `testout` folder.
+Ground truth: https://drive.google.com/file/d/1dnSgI1UXBPucZepP8bPhfGYJEJ6kY6ig/view?usp=sharing
 
 ## Training
 Download the training dataset from the link and unzip it to the working directory
