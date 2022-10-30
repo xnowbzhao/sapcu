@@ -49,9 +49,8 @@ We present a fast implementation for building the dataset, which is based on [oc
 Follow the link [occupancy_networks](https://github.com/autonomousvision/occupancy_networks#building-the-dataset) to obtain pointclouds and watertight meshes. 
 
 ### b. Building and installing
-Then run the following commands for building traindata for fd and fn
+Then move scripts to occupancy_networks/scripts run the following commands for building traindata for fd and fn:
 ```
-cd scripts
 bash dataset_shapenet/build-fd.sh
 bash dataset_shapenet/build-fn.sh
 bash dataset_shapenet/installfd.sh
