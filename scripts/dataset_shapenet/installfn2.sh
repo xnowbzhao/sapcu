@@ -14,7 +14,7 @@ reorganize() {
   cp $points_file $points_out_file
 }
 
-export -f reorganize_choy2016
+export -f reorganize
 
 # Make output directories
 mkdir -p $OUTPUT_PATH
