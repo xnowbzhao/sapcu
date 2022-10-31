@@ -1,4 +1,4 @@
-source dataset_shapenet3/config.sh
+source dataset_shapenet/config.sh
 
 # Function for processing a single model
 reorganize() {
@@ -14,7 +14,7 @@ reorganize() {
   cp $points_file $points_out_file
 }
 
-export -f reorganize_choy2016
+export -f reorganize
 
 # Make output directories
 mkdir -p $OUTPUT_PATH
