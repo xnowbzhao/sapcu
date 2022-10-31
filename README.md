@@ -46,7 +46,7 @@ python trainfd.py
 ## Dataset
 We present a fast implementation for building the dataset, which is based on [occupancy_networks](https://github.com/autonomousvision/occupancy_networks/).
 ### a. Preprocessing
-Follow the link [occupancy_networks](https://github.com/autonomousvision/occupancy_networks#building-the-dataset) to obtain pointclouds and watertight meshes. 
+Follow the link [occupancy_networks](https://github.com/autonomousvision/occupancy_networks#building-the-dataset) to obtain pointclouds and watertight meshes, notice that we only use ShapeNet dataset v1.
 
 ### b. Building and installing
 Then move scripts to occupancy_networks/scripts run the following commands for building traindata for fd and fn:
