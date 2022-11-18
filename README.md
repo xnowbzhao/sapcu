@@ -63,7 +63,7 @@ https://github.com/pleaseconnectwifi/Meta-PU/tree/master/evaluation_code
 https://github.com/jialancong/3D_Processing
 ```
 ## Citation
-If the repo is useful for your research, please consider citing:
+If the code is useful for your research, please consider citing:
   
     @inproceedings{sapcu,
       title = {Self-Supervised Arbitrary-Scale Point Clouds Upsampling via Implicit Neural Representation},
