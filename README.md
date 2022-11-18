@@ -56,6 +56,10 @@ bash dataset_shapenet/build-fn.sh
 bash dataset_shapenet/installfd.sh
 bash dataset_shapenet/installfn.sh
 ```
+## Evaluation
+The code for evaluation can be download from:
+https://github.com/pleaseconnectwifi/Meta-PU/tree/master/evaluation_code
+https://github.com/jialancong/3D_Processing
 
 ## Citation
 If the repo is useful for your research, please consider citing:
