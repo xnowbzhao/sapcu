@@ -16,6 +16,10 @@ Download the pretrained models from the link and unzip it to  `./out/`
 ```
 https://pan.baidu.com/s/1OPVnCHq129DBMWh5BA2Whg 
 access code: hgii 
+
+or
+
+https://drive.google.com/file/d/12TifjDW2L7r2LK3AGDgabHdN3f0xY5DR/view?usp=share_link
 ```
 ### b. Compilation
 Run the following command for compiling dense.cpp which generates dense seed points
