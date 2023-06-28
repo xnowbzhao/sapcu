@@ -77,7 +77,9 @@ If the code is useful for your research, please consider citing:
       title = {Self-Supervised Arbitrary-Scale Point Clouds Upsampling via Implicit Neural Representation},
       author = {Wenbo Zhao, Xianming Liu, Zhiwei Zhong, Junjun Jian, Wei Gao, Ge Li, Xiangyang Ji},
       booktitle = {Proceedings IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
-      year = {2022} 
+      month     = {June},
+      year      = {2022},
+      pages     = {1999-2007}
     }
 
 
