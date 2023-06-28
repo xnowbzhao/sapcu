@@ -39,7 +39,11 @@ Ground truth are provided by [Meta-PU](https://drive.google.com/file/d/1dnSgI1UX
 Download the training dataset from the link and unzip it to the working directory
 ```
 https://pan.baidu.com/s/1VQ-3RFO02fQfcLBfqvCBZA 
-access code: vpfm 
+access code: vpfm
+
+or
+
+https://1drv.ms/f/s!AsP2NtMX-kUTml4U3DYUD6Hy9FJn?e=8QfJTH
 ```
 
 Then run the following commands for training our network
