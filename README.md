@@ -22,7 +22,8 @@ or
 https://drive.google.com/file/d/12TifjDW2L7r2LK3AGDgabHdN3f0xY5DR/view?usp=share_link
 ```
 ### b. Compilation
-Run the following command for compiling dense.cpp which generates dense seed points
+Run the following command for compiling dense.cpp which generates dense seed points.
+Note that the size of the input point cloud is currently limited to 5000, if you want to change this limit, you need to modify the size of the kdtree.
 ```
 g++ -std=c++11 dense.cpp -O2 -o dense
 ```
